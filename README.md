@@ -13,7 +13,7 @@ News of IoT, Let's focus on IoT, or IoE(Internet of Everything)
 
 1. [Lily无人机的出现，或许最先撼动的是GoPro的地位](http://36kr.com/p/532831.html?utm_source=site_search)
 2. [理想丰满现实骨感，无人机Zano的今天就是Lily的明天](http://36kr.com/p/532969.html)
-
+3. [Jacquard](https://www.google.com/atap/project-jacquard/)
 ## Softwares
 
 1. [Brillo](https://developers.google.com/brillo/)
